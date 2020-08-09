@@ -1,7 +1,6 @@
 import threading
 import socket
 from queue import Queue
-
 #Ask user for an IP address
 server = raw_input("Enter a scan location: ")
 
